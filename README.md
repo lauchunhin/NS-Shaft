@@ -2,6 +2,12 @@
 
 Welcome to the repository of **Jumping Jack: Platform Pursuit**, an exciting platform game written in assembly language. This game is a thrilling journey of agility and quick reflexes, where the player navigates through moving platforms.
 
+
+## Language Used
+
+This game is implemented in **MIPS Assembly Language**. MIPS (Microprocessor without Interlocked Pipelined Stages) is a reduced instruction set computer (RISC) instruction set architecture (ISA) developed by MIPS Computer Systems.
+
+
 ## Game Mechanics
 
 The core game logic revolves around the following key procedures:
