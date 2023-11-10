@@ -4,7 +4,7 @@ Welcome to the repository of **NS Shaft**, an exciting platform game written in 
 
 
 ## Project Description
-This project aims to recreate the NS-Shaft game using the MIPS assembly language. The goal is to replicate the original game’s mechanics and gameplay as closely as possible, while also taking advantage of the unique features and capabilities of the MIPS architecture. NS-Shaft is a platform game where the player attempts to descend into a cave. These platforms move upwards at a slowly accelerating speed. At the top of the screen is a set of spikes. The goal of the game is to drop from one platform to another fast enough to avoid being hit by the spikes, but slow enough not to fall off the bottom of the screen.
+This project aims to recreate the NS-Shaft game using a customised version of the MIPS assembly language. The goal is to replicate the original game’s mechanics and gameplay as closely as possible, while also taking advantage of the unique features and capabilities of the MIPS architecture. NS-Shaft is a platform game where the player attempts to descend into a cave. These platforms move upwards at a slowly accelerating speed. At the top of the screen is a set of spikes. The game's goal is to drop from one platform to another fast enough to avoid being hit by the spikes, but slow enough not to fall off the bottom of the screen.
 
 ## Language Used
 
@@ -27,4 +27,4 @@ The core game logic revolves around the following key procedures:
 
 ## Dive In
 
-Feel free to explore the code, understand its workings, and even contribute to enhancing this thrilling platform pursuit. Happy gaming!
+You can explore the code, understand its workings, and even contribute to enhancing this thrilling platform pursuit. Happy gaming!
