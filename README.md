@@ -8,7 +8,7 @@ This project aims to recreate the NS-Shaft game using a customised version of th
 
 ## Language Used
 
-This game is implemented in **MIPS Assembly Language**. MIPS (Microprocessor without Interlocked Pipelined Stages) is a reduced instruction set computer (RISC) instruction set architecture (ISA) developed by MIPS Computer Systems. 
+This game is implemented in **MIPS Assembly Language**. MIPS (Microprocessor without Interlocked Pipelined Stages) is a reduced instruction set computer (RISC) instruction set architecture (ISA) developed by MIPS Computer Systems. We used a customised version of MIPS in this project.
 
 
 ## Game Mechanics
